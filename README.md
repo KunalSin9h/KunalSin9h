@@ -3,7 +3,7 @@
 
 
 ```ocaml
-Kunal Singh
+On hiatus due to exams
 ```
 
 </div>
