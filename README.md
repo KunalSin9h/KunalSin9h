@@ -5,5 +5,5 @@
 > [!IMPORTANT]
 > This is important
 
-> [!ERROR]
+> [!NOTE]
 > This is error
