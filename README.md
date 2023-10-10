@@ -4,3 +4,6 @@
 
 > [!IMPORTANT]
 > This is important
+
+> [!ERROR]
+> This is error
