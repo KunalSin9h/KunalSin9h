@@ -1,3 +1,5 @@
+Currently working on [BlogSpeak.ai](https://github.com/blogspeakai) - Follow to see when I launch. 
+
 Other Projects
 
 - [*ru*](https://github.com/KunalSin9h/ru) - Competitive programming problem parser and test runner.
