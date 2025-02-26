@@ -1,4 +1,4 @@
-Currently working on [BlogSpeak.ai](https://github.com/blogspeakai) - Follow to see when I launch. 
+Currently working on [BlogSpeak AI](https://blogspeak.me) - Follow to see when I launch. 
 
 Other Projects
 
