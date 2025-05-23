@@ -1,4 +1,4 @@
-Currently working on [BlogSpeak AI](https://blogspeak.me) - Follow to see when I launch. [*ON HOLD*]
+[PAUSED] Currently working on [BlogSpeak AI](https://blogspeak.me) - Follow to see when I launch. 
 
 Other Projects
 
