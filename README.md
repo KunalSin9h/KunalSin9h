@@ -1,5 +1,3 @@
-[PAUSED] Currently working on [BlogSpeak AI](https://blogspeak.me) - Follow to see when I launch. 
-
 Other Projects
 
 - [*upkube*](https://github.com/KunalSin9h/upkube) - Bare minimum kubernetes deployment management platform.
